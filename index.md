@@ -6,3 +6,6 @@
 printf("Hello");
 printf("%s",name);
 ```
+- [x] Add Headings
+- [ ] Add cat image
+- [ ] Add code
